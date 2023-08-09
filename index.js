@@ -6,4 +6,4 @@ const getDate = (days) => {
     newDate.getMonth() + 1
   }-${newDate.getFullYear()}`;
 };
-module.exports = getDate;;
+module.exports = getDate;
